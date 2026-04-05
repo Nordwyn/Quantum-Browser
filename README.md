@@ -1,5 +1,5 @@
 # Quantum Browser
-#### Video Demo: [INSERT YOUR YOUTUBE URL HERE]
+#### Video Demo: [YOUTUBE URL HERE]
 #### Description:
 
 **Quantum Browser** is a minimalist, privacy-focused web browser built from the ground up using **Electron**, **Node.js**, and **Vanilla JavaScript**. While many modern browsers are known for being resource-heavy and feature-bloated, Quantum was designed as a technical challenge to bridge the gap between high-level web technologies and the fundamental, low-level data structures introduced in CS50x—specifically those from Week 5 (Data Structures).
@@ -58,7 +58,7 @@ To run Quantum Browser locally, you need **Node.js** and **npm** installed.
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/Quantum-Browser.git](https://github.com/YOUR_USERNAME/Quantum-Browser.git)
+    git clone https://github.com/Nordwyn/Quantum-Browser.git
     ```
 2.  Navigate to the directory:
     ```bash
